@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreWebDemo.Web", "EFCoreWebDemo.Web\EFCoreWebDemo.Web.csproj", "{52068EC9-F6BA-4485-8281-DBD82A60FD2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreWebDemo.Data", "EFCoreWebDemo.Data\EFCoreWebDemo.Data.csproj", "{FA2B57EA-447D-4F83-AEE5-1D03C8A19C79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52068EC9-F6BA-4485-8281-DBD82A60FD2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52068EC9-F6BA-4485-8281-DBD82A60FD2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52068EC9-F6BA-4485-8281-DBD82A60FD2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52068EC9-F6BA-4485-8281-DBD82A60FD2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA2B57EA-447D-4F83-AEE5-1D03C8A19C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2B57EA-447D-4F83-AEE5-1D03C8A19C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2B57EA-447D-4F83-AEE5-1D03C8A19C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2B57EA-447D-4F83-AEE5-1D03C8A19C79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DD16EDE-7BB9-470E-ABB7-E97233621ACC}
+	EndGlobalSection
+EndGlobal
